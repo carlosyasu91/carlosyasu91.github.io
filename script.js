@@ -1,4 +1,4 @@
-function pageScroll() {
-    window.scrollBy(0,2);
-    scrolldelay = setTimeout(pageScroll, 30);
-}
+var now = new Date()
+
+var month = now.getMonth()
+var day = now.getDay()

@@ -21,3 +21,7 @@ span {
   margin-bottom: 30px;
   margin: 0 auto;
 }
+.hrlogo {
+  box-shadow: none;
+  border-radius: 0px;
+}
